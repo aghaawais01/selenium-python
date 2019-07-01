@@ -1,0 +1,1 @@
+BASE_URL= u'http://automationpractice.com/index.php'
